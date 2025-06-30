@@ -1,4 +1,4 @@
-# harmony-utils StrUtil, string tool class
+# StrUtil: Practical HarmonyOS Development
 
 
 Download and install
