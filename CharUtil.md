@@ -1,4 +1,4 @@
-**# harmony-utils: CharUtil, character tool class
+# CharUtil: Practical HarmonyOS Development
 
 Download and install
 `ohpm i @pura/harmony-utils`  
